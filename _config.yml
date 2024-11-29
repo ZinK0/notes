@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Site Title"
+title: "Zin KO's Notes"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Zin KO"
@@ -114,14 +114,11 @@ analytics:
 # Site Author
 author:
   name: "Zin KO"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  avatar: "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "Hi! I’m Zin Ko, an IT enthusiast passionate about learning, teaching, and solving technical challenges. I currently work as an IT Support professional in the education sector, where I help maintain systems, troubleshoot issues, and ensure smooth operations for staff and students."
   location: "Mandalay, Myanmar"
   email: "mrzinko.it@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mrzinko.it@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
