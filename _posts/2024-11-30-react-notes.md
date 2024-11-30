@@ -1,4 +1,10 @@
-# React JS Notes
+---
+layout: post
+title: "React Notes"
+date: 2024-11-24
+categories: notes
+tags: [webdev, react]
+---
 
 ## What is React?
 
